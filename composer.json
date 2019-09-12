@@ -1,0 +1,12 @@
+{
+    "name": "isvtest/mvc",
+    "description": "test",
+    "keywords": ["api"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": "^7.1.3",
+        "joshcam/mysqli-database-class":"2.9.2",
+        "php-amqplib/php-amqplib": "2.6.1"
+    }
+}
